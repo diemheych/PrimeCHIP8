@@ -1,7 +1,7 @@
 # PrimeCHIP8
 CHIP-8 emulator for the HP Prime in Python
 # Installation
-Use the HP Connectivity Kit to transfer FORTH.hpprgm to a virtual or physical HP Prime calculator.
+Use the HP Connectivity Kit to transfer CHIP8.hpprgm to a virtual or physical HP Prime calculator.
 # Keyboard Mapping
 The original COSMAC VIP used a 4x4 kex keypad. The mapping of the keypad to the HP Prime keyboard, along with additional keys, is shown below.
 

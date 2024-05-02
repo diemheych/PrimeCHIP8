@@ -21,7 +21,9 @@ The original COSMAC VIP used a 4x4 kex keypad. The mapping of the keypad to the 
 | Spaceinvaders.ch8 | The classic arcade game, Space Invaders |
 | BLINKY.ch8  | The classic arcade game, Pac-Man |
 | BRIX.ch8    | Blockout type game |
-
+# Screenshots
+![IBM](Images/IBM.png)
+![BLINKY](Images/BLINKY.png)
 # Source
 CHIP8.py includes the source code and the PPL wrapper for execution on the HP Prime. The source can be loaded into the HP Connectivity Kit, modified if required, and dragged onto a virtual or physical HP Prime calculator.
 # References

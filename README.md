@@ -3,7 +3,7 @@ CHIP-8 was originally developed in the 1970s by Joseph Weisbecker for creating c
 
 This CHIP-8 emulator is for the HP Prime in Python. As the HP Prime does not support sound, CHIP-8 sound operations are ignored.
 
-See a demonstration at: ???
+See a demonstration at: https://youtu.be/NkxoqSPar-c
 # Installation
 Use the HP Connectivity Kit to transfer CHIP8.hpprgm to a virtual or physical HP Prime calculator.
 

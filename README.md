@@ -15,7 +15,13 @@ The original COSMAC VIP used a 4x4 kex keypad. The mapping of the keypad to the 
 # Example ROMs
 | Name        | Description        |
 |-------------|--------------------|
+| test_opcode.ch8 | Simple CHIP-8 opcode test |
+| bc_test.ch8 | CHIP-8 opcode test that provides diagnostics if issues are found |
 | IBM.ch8     | IBM Logo           |
+| Spaceinvaders.ch8 | The classic arcade game, Space Invaders |
+| BLINKY.ch8  | The classic arcade game, Pac-Man |
+| BRIX.ch8    | Blockout type game |
+
 # Source
 CHIP8.py includes the source code and the PPL wrapper for execution on the HP Prime. The source can be loaded into the HP Connectivity Kit, modified if required, and dragged onto a virtual or physical HP Prime calculator.
 # References

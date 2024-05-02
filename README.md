@@ -16,7 +16,7 @@ The original COSMAC VIP used a 4x4 kex keypad. The mapping of the keypad to the 
 | Name        | Description        |
 |-------------|--------------------|
 | test_opcode.ch8 | Simple CHIP-8 opcode test |
-| bc_test.ch8 | CHIP-8 opcode test that provides diagnostics if issues are found |
+| bc_test.ch8 | CHIP-8 opcode test that provides diagnostics if issues are found or "BON" if all tests are successful. |
 | IBM.ch8     | IBM Logo           |
 | Spaceinvaders.ch8 | The classic arcade game, Space Invaders |
 | BLINKY.ch8  | The classic arcade game, Pac-Man |
